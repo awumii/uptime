@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.awumii.pl.ico",
     "slug": "nextcloud-talk",
     "status": "down",
-    "uptime": "18.87%",
-    "uptimeDay": "18.87%",
-    "uptimeWeek": "18.87%",
-    "uptimeMonth": "18.87%",
-    "uptimeYear": "18.87%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-20": 1
+      "2026-07-20": 924
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/edge.awumii.pl.ico",
     "slug": "nextcloud-turn",
     "status": "down",
-    "uptime": "24.28%",
-    "uptimeDay": "24.28%",
-    "uptimeWeek": "24.28%",
-    "uptimeMonth": "24.28%",
-    "uptimeYear": "24.28%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-20": 1
+      "2026-07-20": 923
     }
   },
   {
@@ -99,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pass.awumii.pl.ico",
     "slug": "uslugi-hasla-bitwarden",
     "status": "down",
-    "uptime": "36.16%",
-    "uptimeDay": "36.16%",
-    "uptimeWeek": "36.16%",
-    "uptimeMonth": "36.16%",
-    "uptimeYear": "36.16%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 368,
     "timeDay": 368,
     "timeWeek": 368,
     "timeMonth": 368,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2026-07-20": 0
+      "2026-07-20": 923
     }
   },
   {
@@ -118,18 +118,20 @@
     "url": "https://awumii.pl",
     "icon": "https://icons.duckduckgo.com/ip3/awumii.pl.ico",
     "slug": "pub-strona-glowna",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 562,
-    "timeDay": 562,
-    "timeWeek": 562,
-    "timeMonth": 562,
-    "timeYear": 562,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 534,
+    "timeDay": 534,
+    "timeWeek": 534,
+    "timeMonth": 534,
+    "timeYear": 534,
+    "dailyMinutesDown": {
+      "2026-07-20": 0
+    }
   },
   {
     "name": "[Media] Mumble",
@@ -137,18 +139,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mumble.awumii.pl.ico",
     "slug": "media-mumble",
     "status": "down",
-    "uptime": "53.88%",
-    "uptimeDay": "53.88%",
-    "uptimeWeek": "53.88%",
-    "uptimeMonth": "53.88%",
-    "uptimeYear": "53.88%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-20": 0
+      "2026-07-20": 923
     }
   }
 ]
