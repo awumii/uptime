@@ -3,32 +3,29 @@ owner: awumii # Your GitHub organization or username, where this repository live
 repo: uptime # The name of this repository
 
 sites:
-  # --- INFRASTRUKTURA ---
-  - name: "[Infra] DNS"
+  - name: "DNS"
     url: "https://dns.awumii.pl"
 
-  - name: "[Infra] Cockpit"
+  - name: "Cockpit"
     url: "https://panel.awumii.pl"
 
-  # --- NEXTCLOUD & USŁUGI ---
-  - name: "[Nextcloud] NextCloud"
+  - name: "NextCloud"
     url: "https://cloud.awumii.pl"
 
-  - name: "[Nextcloud] Talk"
-    url: "tcp://cloud.awumii.pl:443" 
+  - name: "NextCloud Signaling"
+    url: "https://cloud.awumii.pl/ocs/v2.php/apps/spreed/api/v3/signaling/backend"
 
-  - name: "[Nextcloud] TURN"
-    url: "tcp://edge.awumii.pl:3478"
+  - name: "NextCloud TURN"
+    url: "https://awumii.pl/alive/turn"
 
-  - name: "[Usługi] Hasła (Bitwarden)"
-    url: "https://pass.awumii.pl"
+  - name: "Vaultwarden"
+    url: "https://pass.awumii.pl/alive"
 
-  # --- PUBLICZNE / MEDIA ---
-  - name: "[Pub] Strona Główna"
+  - name: "Home (awumii.pl)"
     url: "https://awumii.pl"
 
-  - name: "[Media] Mumble"
-    url: "tcp://mumble.awumii.pl:64738"
+  - name: "Mumble"
+    url: "https://awumii.pl/alive/mumble"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -37,8 +34,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Status page for awumii.pl infrastructure"
+  introMessage: "This page shows status for all my services"
   navbar:
     - title: Status
       href: /
