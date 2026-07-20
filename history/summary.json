@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-20": 924
+      "2026-07-20": 1012
     }
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-20": 923
+      "2026-07-20": 1011
     }
   },
   {
@@ -110,7 +110,7 @@
     "timeMonth": 368,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2026-07-20": 923
+      "2026-07-20": 1011
     }
   },
   {
@@ -118,19 +118,19 @@
     "url": "https://awumii.pl",
     "icon": "https://icons.duckduckgo.com/ip3/awumii.pl.ico",
     "slug": "pub-strona-glowna",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 534,
-    "timeDay": 534,
-    "timeWeek": 534,
-    "timeMonth": 534,
-    "timeYear": 534,
+    "status": "up",
+    "uptime": "91.28%",
+    "uptimeDay": "91.28%",
+    "uptimeWeek": "91.28%",
+    "uptimeMonth": "91.28%",
+    "uptimeYear": "91.28%",
+    "time": 503,
+    "timeDay": 503,
+    "timeWeek": 503,
+    "timeMonth": 503,
+    "timeYear": 503,
     "dailyMinutesDown": {
-      "2026-07-20": 0
+      "2026-07-20": 88
     }
   },
   {
@@ -150,7 +150,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-20": 923
+      "2026-07-20": 1011
     }
   }
 ]
