@@ -1,7 +1,7 @@
 url: https://awumii.pl/alive/mumble
-status: up
-code: 200
-responseTime: 534
-lastUpdated: 2026-07-21T00:00:04.986Z
+status: down
+code: 503
+responseTime: 332
+lastUpdated: 2026-07-21T23:39:17.087Z
 startTime: 2026-07-20T21:01:09.729Z
 generator: Upptime <https://github.com/upptime/upptime>
