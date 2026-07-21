@@ -1,7 +1,7 @@
 url: https://panel.awumii.pl
-status: up
-code: 200
-responseTime: 865
-lastUpdated: 2026-07-21T00:00:00.653Z
+status: down
+code: 502
+responseTime: 482
+lastUpdated: 2026-07-21T23:39:00.033Z
 startTime: 2026-07-20T21:00:50.539Z
 generator: Upptime <https://github.com/upptime/upptime>
