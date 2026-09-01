@@ -4,21 +4,22 @@
     "url": "https://awumii.pl",
     "icon": "https://icons.duckduckgo.com/ip3/awumii.pl.ico",
     "slug": "home-awumii-pl",
-    "status": "up",
-    "uptime": "96.54%",
-    "uptimeDay": "89.08%",
-    "uptimeWeek": "97.61%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "96.54%",
+    "status": "down",
+    "uptime": "96.49%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "97.22%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "96.49%",
     "time": 640,
-    "timeDay": 468,
+    "timeDay": 496,
     "timeWeek": 581,
     "timeMonth": 634,
     "timeYear": 640,
     "dailyMinutesDown": {
       "2026-07-24": 869,
       "2026-07-23": 997,
-      "2026-08-31": 241
+      "2026-08-31": 241,
+      "2026-09-01": 39
     }
   },
   {
@@ -26,14 +27,14 @@
     "url": "https://dns.awumii.pl",
     "icon": "https://icons.duckduckgo.com/ip3/dns.awumii.pl.ico",
     "slug": "dns",
-    "status": "up",
-    "uptime": "96.44%",
-    "uptimeDay": "89.08%",
-    "uptimeWeek": "97.65%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "96.44%",
+    "status": "down",
+    "uptime": "96.40%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "96.40%",
     "time": 1115,
-    "timeDay": 1066,
+    "timeDay": 1149,
     "timeWeek": 1134,
     "timeMonth": 1142,
     "timeYear": 1115,
@@ -41,7 +42,8 @@
       "2026-07-24": 869,
       "2026-07-23": 992,
       "2026-08-23": 66,
-      "2026-08-31": 236
+      "2026-08-31": 236,
+      "2026-09-01": 34
     }
   },
   {
@@ -49,14 +51,14 @@
     "url": "https://panel.awumii.pl",
     "icon": "https://icons.duckduckgo.com/ip3/panel.awumii.pl.ico",
     "slug": "cockpit",
-    "status": "up",
-    "uptime": "96.42%",
-    "uptimeDay": "89.07%",
-    "uptimeWeek": "97.70%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "96.42%",
+    "status": "down",
+    "uptime": "96.39%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "97.41%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "96.39%",
     "time": 772,
-    "timeDay": 485,
+    "timeDay": 493,
     "timeWeek": 837,
     "timeMonth": 839,
     "timeYear": 772,
@@ -65,7 +67,8 @@
       "2026-07-21": 21,
       "2026-07-24": 869,
       "2026-07-23": 987,
-      "2026-08-31": 232
+      "2026-08-31": 232,
+      "2026-09-01": 29
     }
   },
   {
@@ -73,21 +76,22 @@
     "url": "https://cloud.awumii.pl",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.awumii.pl.ico",
     "slug": "next-cloud",
-    "status": "up",
-    "uptime": "96.58%",
-    "uptimeDay": "89.07%",
-    "uptimeWeek": "97.75%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "96.58%",
+    "status": "down",
+    "uptime": "96.56%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "97.51%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "96.56%",
     "time": 1490,
-    "timeDay": 1339,
+    "timeDay": 1292,
     "timeWeek": 1462,
     "timeMonth": 1583,
     "timeYear": 1490,
     "dailyMinutesDown": {
       "2026-07-24": 869,
       "2026-07-23": 982,
-      "2026-08-31": 227
+      "2026-08-31": 227,
+      "2026-09-01": 24
     }
   },
   {
@@ -95,14 +99,14 @@
     "url": "https://awumii.pl/alive/signaling",
     "icon": "https://icons.duckduckgo.com/ip3/awumii.pl.ico",
     "slug": "next-cloud-signaling",
-    "status": "up",
-    "uptime": "96.57%",
-    "uptimeDay": "89.07%",
-    "uptimeWeek": "97.80%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "96.57%",
+    "status": "down",
+    "uptime": "96.55%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "97.60%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "96.55%",
     "time": 533,
-    "timeDay": 502,
+    "timeDay": 558,
     "timeWeek": 547,
     "timeMonth": 559,
     "timeYear": 533,
@@ -110,7 +114,8 @@
       "2026-07-20": 19,
       "2026-07-24": 869,
       "2026-07-23": 977,
-      "2026-08-31": 222
+      "2026-08-31": 222,
+      "2026-09-01": 20
     }
   },
   {
@@ -118,21 +123,22 @@
     "url": "http://edge.awumii.pl:8222",
     "icon": "https://icons.duckduckgo.com/ip3/edge.awumii.pl.ico",
     "slug": "next-cloud-nats",
-    "status": "up",
+    "status": "down",
     "uptime": "96.61%",
-    "uptimeDay": "89.06%",
-    "uptimeWeek": "97.85%",
-    "uptimeMonth": "99.50%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "96.61%",
     "time": 376,
-    "timeDay": 292,
+    "timeDay": 300,
     "timeWeek": 406,
     "timeMonth": 399,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2026-07-24": 869,
       "2026-07-23": 972,
-      "2026-08-31": 217
+      "2026-08-31": 217,
+      "2026-09-01": 15
     }
   },
   {
@@ -140,21 +146,22 @@
     "url": "https://awumii.pl/alive/turn",
     "icon": "https://icons.duckduckgo.com/ip3/awumii.pl.ico",
     "slug": "next-cloud-turn",
-    "status": "up",
+    "status": "down",
     "uptime": "96.63%",
-    "uptimeDay": "89.06%",
-    "uptimeWeek": "97.89%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "97.80%",
+    "uptimeMonth": "99.49%",
     "uptimeYear": "96.63%",
     "time": 547,
-    "timeDay": 435,
+    "timeDay": 443,
     "timeWeek": 579,
     "timeMonth": 563,
     "timeYear": 547,
     "dailyMinutesDown": {
       "2026-07-24": 869,
       "2026-07-23": 968,
-      "2026-08-31": 212
+      "2026-08-31": 212,
+      "2026-09-01": 10
     }
   },
   {
@@ -162,21 +169,22 @@
     "url": "https://pass.awumii.pl/alive",
     "icon": "https://icons.duckduckgo.com/ip3/pass.awumii.pl.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "96.65%",
-    "uptimeDay": "89.06%",
-    "uptimeWeek": "97.94%",
-    "uptimeMonth": "99.53%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "97.89%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "96.65%",
     "time": 566,
-    "timeDay": 454,
+    "timeDay": 470,
     "timeWeek": 562,
     "timeMonth": 570,
     "timeYear": 566,
     "dailyMinutesDown": {
       "2026-07-24": 869,
       "2026-07-23": 963,
-      "2026-08-31": 207
+      "2026-08-31": 207,
+      "2026-09-01": 5
     }
   },
   {
@@ -184,14 +192,14 @@
     "url": "https://awumii.pl/alive/mumble",
     "icon": "https://icons.duckduckgo.com/ip3/awumii.pl.ico",
     "slug": "mumble",
-    "status": "up",
-    "uptime": "75.43%",
-    "uptimeDay": "89.06%",
+    "status": "down",
+    "uptime": "75.54%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "97.99%",
-    "uptimeMonth": "94.94%",
-    "uptimeYear": "75.43%",
+    "uptimeMonth": "95.60%",
+    "uptimeYear": "75.54%",
     "time": 523,
-    "timeDay": 445,
+    "timeDay": 463,
     "timeWeek": 586,
     "timeMonth": 544,
     "timeYear": 523,
@@ -209,7 +217,8 @@
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 958,
-      "2026-08-31": 203
+      "2026-08-31": 203,
+      "2026-09-01": 0
     }
   }
 ]
