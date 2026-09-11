@@ -4,11 +4,11 @@
     "url": "https://awumii.pl",
     "icon": "https://icons.duckduckgo.com/ip3/awumii.pl.ico",
     "slug": "home-awumii-pl",
-    "status": "up",
+    "status": "down",
     "uptime": "94.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.37%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "94.28%",
     "uptimeYear": "94.24%",
     "time": 643,
     "timeDay": 650,
@@ -20,7 +20,8 @@
       "2026-07-23": 997,
       "2026-08-31": 241,
       "2026-09-02": 1196,
-      "2026-09-01": 1027
+      "2026-09-01": 1027,
+      "2026-09-11": 39
     }
   },
   {
@@ -28,11 +29,11 @@
     "url": "https://dns.awumii.pl",
     "icon": "https://icons.duckduckgo.com/ip3/dns.awumii.pl.ico",
     "slug": "dns",
-    "status": "up",
+    "status": "down",
     "uptime": "94.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.25%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "94.17%",
     "uptimeYear": "94.17%",
     "time": 1134,
     "timeDay": 1441,
@@ -45,7 +46,8 @@
       "2026-08-23": 66,
       "2026-08-31": 236,
       "2026-09-02": 1196,
-      "2026-09-01": 1023
+      "2026-09-01": 1023,
+      "2026-09-11": 34
     }
   },
   {
@@ -53,12 +55,12 @@
     "url": "https://panel.awumii.pl",
     "icon": "https://icons.duckduckgo.com/ip3/panel.awumii.pl.ico",
     "slug": "cockpit",
-    "status": "up",
-    "uptime": "94.16%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.42%",
-    "uptimeYear": "94.16%",
+    "status": "down",
+    "uptime": "94.17%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "94.35%",
+    "uptimeYear": "94.17%",
     "time": 769,
     "timeDay": 749,
     "timeWeek": 740,
@@ -71,7 +73,8 @@
       "2026-07-23": 987,
       "2026-08-31": 232,
       "2026-09-02": 1196,
-      "2026-09-01": 1018
+      "2026-09-01": 1018,
+      "2026-09-11": 29
     }
   },
   {
@@ -79,12 +82,12 @@
     "url": "https://cloud.awumii.pl",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.awumii.pl.ico",
     "slug": "next-cloud",
-    "status": "up",
-    "uptime": "94.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.44%",
-    "uptimeYear": "94.30%",
+    "status": "down",
+    "uptime": "94.31%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "94.38%",
+    "uptimeYear": "94.31%",
     "time": 1522,
     "timeDay": 2104,
     "timeWeek": 1708,
@@ -95,7 +98,8 @@
       "2026-07-23": 982,
       "2026-08-31": 227,
       "2026-09-02": 1196,
-      "2026-09-01": 1013
+      "2026-09-01": 1013,
+      "2026-09-11": 25
     }
   },
   {
@@ -103,12 +107,12 @@
     "url": "https://awumii.pl/alive/signaling",
     "icon": "https://icons.duckduckgo.com/ip3/awumii.pl.ico",
     "slug": "next-cloud-signaling",
-    "status": "up",
-    "uptime": "94.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.46%",
-    "uptimeYear": "94.29%",
+    "status": "down",
+    "uptime": "94.31%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "94.42%",
+    "uptimeYear": "94.31%",
     "time": 533,
     "timeDay": 775,
     "timeWeek": 546,
@@ -120,7 +124,8 @@
       "2026-07-23": 977,
       "2026-08-31": 222,
       "2026-09-02": 1196,
-      "2026-09-01": 1008
+      "2026-09-01": 1008,
+      "2026-09-11": 20
     }
   },
   {
@@ -128,12 +133,12 @@
     "url": "http://edge.awumii.pl:8222",
     "icon": "https://icons.duckduckgo.com/ip3/edge.awumii.pl.ico",
     "slug": "next-cloud-nats",
-    "status": "up",
-    "uptime": "94.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.48%",
-    "uptimeYear": "94.33%",
+    "status": "down",
+    "uptime": "94.36%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "94.45%",
+    "uptimeYear": "94.36%",
     "time": 375,
     "timeDay": 573,
     "timeWeek": 381,
@@ -144,7 +149,8 @@
       "2026-07-23": 972,
       "2026-08-31": 217,
       "2026-09-02": 1197,
-      "2026-09-01": 1003
+      "2026-09-01": 1003,
+      "2026-09-11": 15
     }
   },
   {
@@ -152,12 +158,12 @@
     "url": "https://awumii.pl/alive/turn",
     "icon": "https://icons.duckduckgo.com/ip3/awumii.pl.ico",
     "slug": "next-cloud-turn",
-    "status": "up",
-    "uptime": "94.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.51%",
-    "uptimeYear": "94.36%",
+    "status": "down",
+    "uptime": "94.39%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "94.48%",
+    "uptimeYear": "94.39%",
     "time": 547,
     "timeDay": 649,
     "timeWeek": 570,
@@ -168,7 +174,8 @@
       "2026-07-23": 968,
       "2026-08-31": 212,
       "2026-09-02": 1197,
-      "2026-09-01": 998
+      "2026-09-01": 998,
+      "2026-09-11": 10
     }
   },
   {
@@ -176,12 +183,12 @@
     "url": "https://pass.awumii.pl/alive",
     "icon": "https://icons.duckduckgo.com/ip3/pass.awumii.pl.ico",
     "slug": "vaultwarden",
-    "status": "up",
-    "uptime": "94.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.53%",
-    "uptimeYear": "94.37%",
+    "status": "down",
+    "uptime": "94.41%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "94.52%",
+    "uptimeYear": "94.41%",
     "time": 565,
     "timeDay": 651,
     "timeWeek": 580,
@@ -192,7 +199,8 @@
       "2026-07-23": 963,
       "2026-08-31": 207,
       "2026-09-02": 1197,
-      "2026-09-01": 993
+      "2026-09-01": 993,
+      "2026-09-11": 5
     }
   },
   {
@@ -200,12 +208,12 @@
     "url": "https://awumii.pl/alive/mumble",
     "icon": "https://icons.duckduckgo.com/ip3/awumii.pl.ico",
     "slug": "mumble",
-    "status": "up",
-    "uptime": "77.22%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "77.40%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.55%",
-    "uptimeYear": "77.22%",
+    "uptimeYear": "77.40%",
     "time": 538,
     "timeDay": 633,
     "timeWeek": 617,
@@ -227,7 +235,8 @@
       "2026-07-23": 958,
       "2026-08-31": 203,
       "2026-09-02": 1197,
-      "2026-09-01": 988
+      "2026-09-01": 988,
+      "2026-09-11": 0
     }
   }
 ]
