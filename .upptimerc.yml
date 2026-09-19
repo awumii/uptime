@@ -29,7 +29,18 @@ sites:
 
   - name: "Mumble"
     url: "https://awumii.pl/alive/mumble"
-
+    
+  - name: "Hosting"
+    url: "https://hosting.awumii.pl"
+    
+  - name: "Immich"
+    url: "https://photos.awumii.pl"
+    
+  - name: "CrowdSec"
+    url: "https://crowdsec.awumii.pl"
+    
+  - name: "CoolerControl"
+    url: "https://coolercontrol.awumii.pl"
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
