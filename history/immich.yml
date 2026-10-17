@@ -1,7 +1,7 @@
 url: https://photos.awumii.pl
-status: up
-code: 200
-responseTime: 836
-lastUpdated: 2026-10-17T01:10:25.496Z
+status: down
+code: 502
+responseTime: 1008
+lastUpdated: 2026-10-17T23:05:54.831Z
 startTime: 2026-09-19T17:39:44.393Z
 generator: Upptime <https://github.com/upptime/upptime>
